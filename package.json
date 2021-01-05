@@ -13,8 +13,13 @@
     "row",
     "column",
     "react-native",
-    "react-component"
+    "react-native-component"
   ],
   "author": "Steffo Dimfelt",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steffodimfelt/react-native-flex-directions.git"
+  },
+  "homepage": "https://github.com/steffodimfelt/react-native-flex-directions"
 }
