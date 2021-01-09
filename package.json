@@ -1,6 +1,6 @@
 {
   "name": "react-native-flex-directions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build Flex Rows and Columns in a easy way.",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,9 @@
   ],
   "author": "Steffo Dimfelt",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/steffodimfelt/react-native-flex-directions.git"
-  },
-  "homepage": "https://github.com/steffodimfelt/react-native-flex-directions"
+  "repository": "https://github.com/steffodimfelt/react-native-flex-directions.git",
+  "homepage": "https://github.com/steffodimfelt/react-native-flex-directions",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
